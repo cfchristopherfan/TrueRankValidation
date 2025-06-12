@@ -199,55 +199,64 @@ export const parks: Park[] = [
     id: "gumo",
     name: "Guadalupe Mountains",
     state: "Texas",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw-_C-JXCp8BaNSCJ-j8ePKQNARcptQWQUJ_asGCvKIZ1WQBuulo8noGWL&s",
   },
   {
     id: "hale",
     name: "Haleakalā",
     state: "Hawaii",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfkSbJR9CTusQWhP8dqBCJTJOqWMRvn05GglLM_HpbMp4lV_fMI0S8umw&s",
   },
   {
     id: "havo",
     name: "Hawai'i Volcanoes",
     state: "Hawaii",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLZFe6TLjNcj4CTbi3GuTvfLsTQQNXIoC-dXo_xFmVC3XFLfX2tkDnreW&s",
   },
   {
     id: "hosp",
     name: "Hot Springs",
     state: "Arkansas",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlk_fhP-gyobQfxgO0esW960a41vAwQ0xQ19otXurlTGCSlzic-7Cblxkr&s",
   },
   {
     id: "indu",
     name: "Indiana Dunes",
     state: "Indiana",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ekDU3UL_YBfp5lwhf6HgVZ2-s1XmW-ldx4Z4jTw9MIZlbza7IrUaCeDf&s",
   },
   {
     id: "isro",
     name: "Isle Royale",
     state: "Michigan",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7rtHTFLUkpOmKbDwHYYhUdZqBz_HQAw8EoeEu2Ga3sAMHoBxOQ4hnx2Gs&s",
   },
   {
     id: "josh",
     name: "Joshua Tree",
     state: "California",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHtGBQ9htvSEq8p817Dpq3T5eCsXfcXKqhry6AUhMdZfooZMi8ftSH2zy&s",
   },
   {
     id: "katm",
     name: "Katmai",
     state: "Alaska",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaLwoJUhkTsEI8PGK0C_d_45nQhPGz5fxuiIyA081jlLAyv6G5sxqXFSkj&s",
   },
   {
     id: "kefj",
     name: "Kenai Fjords",
     state: "Alaska",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3w3uDkPPJ_EEF7QUKu39akAwqhGoN7d6Nu0rFG3deI1BvxmtIdvIe9QUG&s",
   },
   {
     id: "king",
@@ -272,19 +281,22 @@ export const parks: Park[] = [
     id: "lavo",
     name: "Lassen Volcanic",
     state: "California",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCl3_1IOLRMcbdnG1MiqeoHTZioa2hVGsC6RpmVrFMycTuGNl4GkA35-1n&s",
   },
   {
     id: "maca",
     name: "Mammoth Cave",
     state: "Kentucky",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvSFw4NYlGgwQMHuF9VFowSyGfsjkEBhG7kR8saGhjESScTziPHgDoh-2&s",
   },
   {
     id: "meve",
     name: "Mesa Verde",
     state: "Colorado",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKY8QV-tn-ElCZ-7wvaltl8U558PdzP071z3TJndF_BjVbQlJ2okKlAPZ9&s",
   },
   {
     id: "mora",
@@ -297,7 +309,8 @@ export const parks: Park[] = [
     id: "npsa",
     name: "National Park of American Samoa",
     state: "American Samoa",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTNzyTMSHqKFF6fWmQwU6N4eLB-Wo043xGxCrFkgulVBtDWH6O0nOqyLrx&s",
   },
   {
     id: "noca",
@@ -324,7 +337,8 @@ export const parks: Park[] = [
     id: "pinn",
     name: "Pinnacles",
     state: "California",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4wpvvJ2CFLDxTqcURX10092oRdyqs7oWCVKjgwiT_c4yY0BJKw3EUPyg&s",
   },
   {
     id: "redw",
@@ -358,7 +372,8 @@ export const parks: Park[] = [
     id: "shen",
     name: "Shenandoah",
     state: "Virginia",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoheZWUScdK8FRvX7kd_WsIC9eKJKNihcrVUVpqKE98USv4es6XInncBEB&s",
   },
   {
     id: "thro",
@@ -371,31 +386,36 @@ export const parks: Park[] = [
     id: "viis",
     name: "Virgin Islands",
     state: "U.S. Virgin Islands",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeTjUBNA-de7RUwbHc3B0GhTEj7T28GDiDRsgOcUqY0vk2Fwdz5KAf2Aq&s",
   },
   {
     id: "voya",
     name: "Voyageurs",
     state: "Minnesota",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55cuLDlXW1OHKRshLOqw5ghCbZbOhi14Y6CAE-sc3199pelB8crGugXja&s",
   },
   {
     id: "whsa",
     name: "White Sands",
     state: "New Mexico",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm_p-ny3sEHcJJ7UqnRHzxaypKwo6uKodgCo5esi9s7ECLSg6eWHLY20pr&s",
   },
   {
     id: "wica",
     name: "Wind Cave",
     state: "South Dakota",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSl6lwCZHT-hT14sUqieY63TBREgFE0nutJUF4rcVOHw1ixBnrP-mqr_Sk&s",
   },
   {
     id: "wrst",
     name: "Wrangell-St. Elias",
     state: "Alaska",
-    imageUrl: "",
+    imageUrl:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhzTKSFB7-LcNDXuMHqELmBHZ-2rccqVlwGhryK90k5sAZ_7get2JurSxy&s",
   },
   {
     id: "yell",
